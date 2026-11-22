@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-22 12:55:36",
+ "updated_at": "2026-11-22 12:57:14",
  "min_version": "26.11.22.124233",
  "trust_map": {
   "26.09.14.150057": {
@@ -91,5 +91,5 @@
    "license_guard_sha256": "03a5107abedeadb05d81e28af03cb528962d78d4565a20d0a44367e497827a02"
   }
  },
- "sig": "6f0612a23bc6ce1a39a32be66d455bc9a91518974603a0d42bd4c7e7e6500cdfa48b6ae7adf3d148819246d08adafcca4ef986298a08bedbedd261776d437c00"
+ "sig": "08e06c25f7ed59cabefa7de41bb7f4d75d355051e8d81135468a6bdc981aac93051eae84a66bf1ce849fe2b44c8641a63596f6db2ad4e370f8d772181d0c3105"
 }
